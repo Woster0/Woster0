@@ -39,7 +39,7 @@ Discord: woster.
 ## 🎮 Live Presence
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/discord_id?theme=dark&bg=0f0c29&animated=true&hideDiscrim=true" />
+  <img src="https://lanyard.cnrad.dev/api/897197671591317564?theme=dark&bg=0f0c29&animated=true&hideDiscrim=true" />
 </p>
 
 ---
