@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?Woster0=Woster0&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Woster0&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=250&section=header&text=Woster&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20over%20scripts.&descAlignY=60&descSize=20"/>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/">
+    <img src="https://img.shields.io/badge/Discord-woster.-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -18,20 +24,23 @@
 > whoami
 Woster
 
+> contact
+Discord: woster.
+
 > skills --focus
 - Roblox / Luau systems
 - Server-authoritative architecture
 - Modular scalable structures
 - UI/UX logic & interactions
-
-> currently_learning
-- C#
-- Backend concepts
-- AI / automation systems
-
-> status
-Debugging... probably.
 ```
+
+---
+
+## 🎮 Live Presence
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/discord_id?theme=dark&bg=0f0c29&animated=true&hideDiscrim=true" />
+</p>
 
 ---
 
@@ -72,47 +81,6 @@ AI / Automation          ████░░░░░░░░  35%
 
 ✔ "Fixed it"
 → created 2 new bugs
-
-✔ "I'll sleep early"
-→ 04:27 AM
-```
-
----
-
-## 🚀 Current Mission
-
-```txt
-> Building advanced Roblox systems
-> Improving architecture quality
-> Learning backend patterns
-> Exploring AI tools
-> Becoming dangerously efficient
-```
-
----
-
-## 🧪 Interactive Zone
-
-<p align="center">
-  <a href="https://github.com/Woster0?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Projects-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Woster0">
-    <img src="https://img.shields.io/badge/Follow%20Me-E100FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🎮 Showcase
-
-> Coming soon: gameplay systems, UI experiments, combat prototypes, and weird bugs that somehow became features.
-
-```txt
-[ Roblox Systems ]     ██████████░░
-[ UI Experiments ]     ████████░░░░
-[ Backend Learning ]   █████░░░░░░░
-[ AI Experiments ]     ████░░░░░░░░
 ```
 
 ---
@@ -120,22 +88,9 @@ AI / Automation          ████░░░░░░░░  35%
 ## 📊 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?Woster0=Woster0&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Woster0&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Woster0&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?Woster0=Woster0&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Mindset
-
-```txt
-Messy code = temporary success
-Clean systems = long-term dominance
-```
 
 ---
 
