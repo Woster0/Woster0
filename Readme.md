@@ -90,12 +90,12 @@ AI / Automation         ████░░░░░░░░  35%
 ## 📊 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?Woster0=Woster0&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Woster0&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?Woster0=Woster0&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
