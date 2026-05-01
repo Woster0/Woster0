@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Woster0&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20systems,%20not%20just%20scripts.&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Woster&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20systems,%20not%20just%20scripts.&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=800&color=E100FF&center=true&vCenter=true&width=700&lines=Roblox+Systems+Developer;Server-Authoritative+Architecture;Clean+%26+Scalable+Code;Exploring+C%23+%26+AI+Automation;Performance+Focused+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=800&color=E100FF&center=true&vCenter=true&width=700&lines=Roblox+Systems+Developer;Server-Authoritative+Architecture;Clean+%26+Scalable+Code;Exploring+C%23+%26+AI+Automation;I+fix+bugs+(sometimes+create+them)" />
 </p>
 
 ---
@@ -12,10 +12,12 @@
 
 I build gameplay systems with a focus on **structure, performance, and scalability**.
 
-I’m mainly focused on Roblox development, but I’m also exploring backend logic, C# concepts, automation, and AI-related tools to expand how I think about systems.
+I’m mainly focused on Roblox development, but I also explore backend logic, C# concepts, automation, and AI-related tools.
 
-> I don’t want to write random scripts.  
-> I want to build systems that feel clean, fast, and reliable.
+> I don’t write random scripts.  
+> I build systems.  
+>  
+> *(and occasionally spend 3 hours debugging something caused by a missing comma)*
 
 ---
 
