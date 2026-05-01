@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?Woster0=Woster0&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=250&section=header&text=Woster&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20over%20scripts.&descAlignY=60&descSize=20"/>
 </p>
 
@@ -48,11 +52,11 @@ Only clean logic, real structure, and gameplay impact.
 
 ```txt
 Systems Design           ██████████░░  85%
-Roblox Development      ██████████░░  85%
-UI / UX Logic           ████████░░░░  70%
-Data Systems            ████████░░░░  70%
-C# / Backend            █████░░░░░░░  45%
-AI / Automation         ████░░░░░░░░  35%
+Roblox Development       ██████████░░  85%
+UI / UX Logic            ████████░░░░  70%
+Data Systems             ████████░░░░  70%
+C# / Backend             █████░░░░░░░  45%
+AI / Automation          ████░░░░░░░░  35%
 ```
 
 ---
@@ -83,6 +87,32 @@ AI / Automation         ████░░░░░░░░  35%
 > Learning backend patterns
 > Exploring AI tools
 > Becoming dangerously efficient
+```
+
+---
+
+## 🧪 Interactive Zone
+
+<p align="center">
+  <a href="https://github.com/Woster0?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Projects-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Woster0">
+    <img src="https://img.shields.io/badge/Follow%20Me-E100FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎮 Showcase
+
+> Coming soon: gameplay systems, UI experiments, combat prototypes, and weird bugs that somehow became features.
+
+```txt
+[ Roblox Systems ]     ██████████░░
+[ UI Experiments ]     ████████░░░░
+[ Backend Learning ]   █████░░░░░░░
+[ AI Experiments ]     ████░░░░░░░░
 ```
 
 ---
