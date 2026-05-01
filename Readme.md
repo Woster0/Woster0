@@ -27,25 +27,39 @@ Woster
 
 > status
 Debugging... probably.
-🧠 About
+```
 
-I build systems that are designed to scale, perform, and survive.
+---
 
-Not interested in messy scripts.
-Not interested in quick hacks.
+## 🧠 About
+
+I build systems that are designed to **scale, perform, and survive**.
+
+Not interested in messy scripts.  
+Not interested in quick hacks.  
 
 Only clean logic, real structure, and gameplay impact.
 
-“If your system breaks after one update, it was never a system.”
+> If your system breaks after one update, it was never a system.
 
-⚙️ Power Levels
+---
+
+## ⚙️ Power Levels
+
+```txt
 Systems Design           ██████████░░  85%
 Roblox Development      ██████████░░  85%
 UI / UX Logic           ████████░░░░  70%
 Data Systems            ████████░░░░  70%
 C# / Backend            █████░░░░░░░  45%
 AI / Automation         ████░░░░░░░░  35%
-🧩 Dev Reality
+```
+
+---
+
+## 🧩 Dev Reality
+
+```txt
 ✔ "Just one small change"
 → breaks entire system
 
@@ -57,15 +71,44 @@ AI / Automation         ████░░░░░░░░  35%
 
 ✔ "I'll sleep early"
 → 04:27 AM
-🚀 Current Mission
+```
+
+---
+
+## 🚀 Current Mission
+
+```txt
 > Building advanced Roblox systems
 > Improving architecture quality
 > Learning backend patterns
 > Exploring AI tools
 > Becoming dangerously efficient
-📊 Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🧠 Mindset
+```
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Mindset
+
+```txt
 Messy code = temporary success
 Clean systems = long-term dominance
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/> </p> ```
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
